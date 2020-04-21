@@ -1,3 +1,3 @@
 # tictactoe
 
-To play, load play.rb
+To play, download repository then load play.rb in the command line
